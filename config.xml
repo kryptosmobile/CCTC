@@ -140,7 +140,7 @@
         <plugin spec="https://github.com/venkykowshik/startapp.git" source="git" />
         
         <!--<gap:plugin name="polarcape-cordova-plugin-document-handler" source="npm" />-->
-        <plugin spec="https://github.com/ti8m/DocumentHandler.git" source="git" />
+        <!--<plugin spec="https://github.com/ti8m/DocumentHandler.git" source="git" />-->
         <!--<plugin spec="https://github.com/sitewaerts/cordova-plugin-document-viewer.git" source="git" />-->
         
         
