@@ -127,9 +127,7 @@
         <!--<gap:plugin name="cordova-plugin-x-socialsharing" source="npm" />-->
         <gap:plugin name="cordova-plugin-x-socialsharing" source="npm" spec="5.4.1"/>
         
-        <!--<gap:plugin name="cordova-plugin-vha-fileopener2" source="npm" />-->
-        <!--<gap:plugin name="cordova-plugin-fileopener" source="npm"/>-->
-        
+              
         <gap:plugin name="phonegap-plugin-push" source="npm" spec="1.8.2">
             <param name="SENDER_ID" value="459115189650" />
         </gap:plugin>
@@ -139,8 +137,10 @@
         <!--<gap:plugin name="is-just-me-startappmx" source="npm" />-->
         <plugin spec="https://github.com/venkykowshik/startapp.git" source="git" />
         
-        <!--<gap:plugin name="polarcape-cordova-plugin-document-handler" source="npm" />-->
         <plugin spec="https://github.com/ti8m/DocumentHandler.git" source="git" />
+        <!--<gap:plugin name="cordova-plugin-vha-fileopener2" source="npm" />-->
+        <!--<gap:plugin name="cordova-plugin-fileopener" source="npm"/>-->
+        <!--<gap:plugin name="polarcape-cordova-plugin-document-handler" source="npm" />-->
         <!--<plugin spec="https://github.com/sitewaerts/cordova-plugin-document-viewer.git" source="git" />-->
         <plugin spec="https://github.com/antonioJASR/FileOpener.git" source="git" />
         
